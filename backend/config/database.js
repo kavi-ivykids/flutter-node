@@ -1,7 +1,7 @@
 // imports
 const mongoose          = require("mongoose");
 const { MONGO_URI }     = process.env;
-const StringManager     = require("../constants/string_manager")
+const StringManager     = require("../constants/string_manager");
 
 
 // Connecting to the database
